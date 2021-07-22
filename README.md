@@ -22,3 +22,5 @@ python3 STP-to-STL.py
 This script becomes particularly useful when needed to convert a large batch of STP/STEP files to STL for further processing.
 
 It is necessary to have FreeCAD installed in your OS. The main libraries used from the installation are the "Part" and "Mesh" libraries. I tried only abstracting those two libraries unsucessfully. It would be nice if someone finds a way to avoid having to install the whole program.
+
+Blogpost to continue this conversation: https://marcofarias.com/stp-step-to-stl-python-converter/
