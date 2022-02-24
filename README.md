@@ -1,3 +1,5 @@
+# New updated, simpler and more versatile version found here: https://github.com/marcofariasmx/STP-STEP-IGES-BREP-to-STL-Python-converter
+
 # STP/STEP-to-STL-Python-Converter
 Simple multithreaded Python script to convert STP/STEP to STL files based on Freecad.
 
